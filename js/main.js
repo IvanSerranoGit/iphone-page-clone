@@ -48,6 +48,19 @@ window.onload = function () {
             [2779, 3410],
             [0, 45],
           ],
+          translate: [
+            [2779, 3410],
+            [0, 200],
+          ],
+
+        },
+      });
+    lax.addElements(".camera-content-container ", {
+        scrollY: {
+            opacity: [
+            [2800, 3748],
+            [0, 1],
+          ],
         },
       });
 }
