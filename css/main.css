@@ -21,8 +21,9 @@ nav{
     left: 0;
     z-index: 12;
 }
-ul li{
-    list-style:none; font-size:12px;
+ul li a{
+    list-style:none; 
+    font-size:12px;
 }
 main{
     position: relative;
